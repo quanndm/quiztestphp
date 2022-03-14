@@ -1,0 +1,4 @@
+Tên học sinh,Địa chỉ,Điện thoại,←--Dòng này không thêm vào file csv
+,,,
+Sơn Phước An ,"Bình Thạnh, Thành phó Hồ Chí Minh",123456789,"←--Bắt đầu thêm từ dòng này, cột số điện thoại để mặc định"
+Kiều Tuấn Tú ,"Tân Bình, Thành phố Hồ Chí Minh",123456789,
